@@ -8,3 +8,5 @@ Black dot represents the Revolute Joint.
 Yellow dot represents the end effector.
 
 Red dot represents the Target Position.
+
+Youtube Video Link: https://www.youtube.com/watch?v=ZU7TYivqpmY
